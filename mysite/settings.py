@@ -26,7 +26,7 @@ SECRET_KEY = 'ha+ub#-6vfjlw*jk-+h1nr@$0n5b!6==^xo5ss)31vkh#06$89'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost','changemaestro-reptilesaturn-6000.codio-box.uk']
+ALLOWED_HOSTS = ['localhost','changemaestro-reptilesaturn-6000.codio-box.uk','polar-bears-1.herokuapp.com']
 
 
 # Application definition
